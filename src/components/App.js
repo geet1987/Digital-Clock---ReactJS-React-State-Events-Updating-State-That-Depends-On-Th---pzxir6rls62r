@@ -16,7 +16,7 @@ setCtime(time);
     <div id="main">
       <div className="date-time">
     
-    <h1>{time}</h1>
+    <h1>{ctime}</h1>
 <button onClick={UpdateTime}>get time</button>
 
     </div>
